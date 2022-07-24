@@ -1,0 +1,77 @@
+html {
+    font-family: 'Raleway', sans-serif;
+}
+
+form{
+    /* border: 3px solid #f1f1f1; */
+    padding-left: 15%;
+    padding-right: 15%;
+    padding-top: 15px;
+    border-radius: 8px;
+    margin: 0 20%;
+    height: 700px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.input {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    box-sizing: border-box;
+    border-radius: 6px;
+}
+
+.add-bt{
+    background-color: #04aa6d;
+    color: white;
+    padding: 14px 20px;
+    margin: 8px 0;
+    border: none;
+    cursor: pointer;
+    width: 100%;
+    border-radius: 5px;
+}
+
+.add-bt:hover{
+    opacity: 0.8;
+}
+
+.box {
+    padding: 16px;
+}
+
+.back-bt {
+    background-color: #04aa6d;
+    color: white;
+    cursor: pointer;
+    border: none;
+    padding: 10px;
+    border-radius: 5px;
+    margin: 10px;
+    width: 80px;
+}
+
+.link_toP {
+    text-decoration: none;
+    color: white;
+}
+
+.back-bt:hover{
+    opacity: 0.8;
+    text-decoration: none;
+}
+
+.placehd {
+    border-radius: 5px;
+}
+
+.title{
+    text-align: center;
+    /* font-weight: bold; */
+}
+
+label {
+    margin-top: 10px;
+}
